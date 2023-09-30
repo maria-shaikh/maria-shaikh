@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m @maria-shaikh
 - 🤓 I am currently pursuing my Masters degree in Business Analytics at the University of Maryland, College Park.
-- This summer, I worked in portfolio Analytics at American Regent 💉
+- 💉 This summer, I worked in portfolio Analytics at American Regent.
 - 👩🏻‍🎓 I also have a Post Graduate Diploma in Data Science from Meghnad Desai Academy of Economics in Mumbai, India.
 - 👩🏻‍💻 I was working as a Data Scientist in the Research and Development team at ZebPay in Mumbai, India.
 - 👯‍♀️ Founding member of the world's first Womens DAO
